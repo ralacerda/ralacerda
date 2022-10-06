@@ -28,5 +28,5 @@ Build using [11ty](https://www.11ty.dev/), [AlpinesJS](https://alpinejs.dev/), [
 
 You can viste the live website [here](https://ralacerda.github.io/coloquio-kuhn/).
 
-[![Colóquio Thomas Kuhn repo](https://github-readme-stats.vercel.app/api/pin/?username=ralacerda&repo=coloquio-kuhn&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
-[![Colóquio Thomas Kuhn repo](https://github-readme-stats.vercel.app/api/pin/?username=ralacerda&repo=coloquio-kuhn&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+[![Colóquio Thomas Kuhn repo](https://github-readme-stats.vercel.app/api/pin/?username=ralacerda&repo=coloquio-kuhn&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Colóquio Thomas Kuhn repo](https://github-readme-stats.vercel.app/api/pin/?username=ralacerda&repo=coloquio-kuhn&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)

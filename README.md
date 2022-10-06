@@ -4,14 +4,14 @@ My name is Renato and I'm a biologist making a career transition to frontend web
 
 ### More about me
 
-- 🔭 I enjoy creating fast static website, with fast and interactive components.
-- 🌱 I’m currently learning VueJS, Astro and how to improve my workflow with GitHub CI/CD tools.
-- 📌 I want to learn Nuxt, Jest and Vitest next.
+- 🔭 I enjoy creating static websites, with fast and interactive components
+- 🌱 I’m currently learning VueJS, Astro and how to improve my workflow with GitHub CI/CD tools
+- 📌 I want to learn Nuxt, Jest and Vitest next
 - 👯 I’m looking to collaborate on VueJS and Astro projects, with code and docummentation
 
 ### Goals
 
-- 👨‍🎓 Learn new things and share that knowledge with others
+- 👨‍🎓 Learn new things and share that knowledge with others.
 - 🌐 Develop acessible, fast and helpful websites 
 - 👨‍💻 Contribute and help mantain Open Source and Free software
 

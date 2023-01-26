@@ -23,9 +23,10 @@ My name is Renato and I'm a biologist making a career transition to frontend web
 
 ### My goals
 
+- 👨‍💻 Start a career as an Front End Developer
 - 👨‍🎓 Learn new things and share that knowledge with others
 - 🌐 Develop accessible, fast and helpful websites
-- 👨‍💻 Contribute and help maintain Open Source and Free software
+- 🏗️ Contribute and help maintain Open Source and Free software
 
 [![@ralacerda Astro contributions](https://astro.badg.es/v1/contributor/ralacerda.svg)](https://astro.badg.es/v1/contributor/ralacerda/)
 

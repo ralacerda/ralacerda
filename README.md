@@ -14,7 +14,7 @@ My name is Renato and I'm a biologist making a career transition to frontend web
 - 🎨 [Multiple Colors Contrast Checker](https://multiple-contrast-checker.netlify.app/) - A Vue.js web app to test the color contrast of multiple colors at the same time. An easier way to check if all yours background and foreground colors meet the WCAG standards 
 - 🎬 [Oscar Nominees](https://sequelamovies.web.app/) - An Astro static website to show information about Oscar Nominees 
 - 🏁 [F1 Next](https://github.com/ralacerda/f1next) - A small Python script to show informations about the next Formula 1 Grand Prix inside your terminal.
-- 🧹 [CSS Boilerplates](https://css-boilerplate.netlify.app/) (WIP) - An web app for creating CSS Resets. Instead of copy pasting the same reset, create a reset file with only the properties you want 
+- 🧹 [CSS Boilerplates](https://css-boilerplate.netlify.app/) (WIP) - An web app for creating CSS Resets. Instead of copy pasting the same reset, create a reset file with only the properties you need
 
 ### Open Source
 
@@ -23,7 +23,7 @@ My name is Renato and I'm a biologist making a career transition to frontend web
 
 ### My goals
 
-- 👨‍💻 Start a career as an Front End Developer
+- 👨‍💻 Start a career as a Front End Developer
 - 👨‍🎓 Learn new things and share that knowledge with others
 - 🌐 Develop accessible, fast and helpful websites
 - 🏗️ Contribute and help maintain Open Source and Free software

@@ -19,7 +19,7 @@ My name is Renato, and I am making a career transition from biology to front-end
 
 ### Open Source
 
-- 📚 - [Contributed](https://github.com/pulls?q=is%3Apr+author%3Aralacerda+archived%3Afalse+is%3Amerged+is%3Apublic+user%3Awithastro+user%3Adoomemacs+) documentation for [Astro](astro.build/) and [Doom Emacs](https://github.com/doomemacs/doomemacs) projects 
+- 📚 - [Contributed](https://github.com/pulls?q=is%3Apr+author%3Aralacerda+archived%3Afalse+is%3Amerged+is%3Apublic+user%3Awithastro+user%3Adoomemacs+) documentation for [Astro](https://astro.build/) and [Doom Emacs](https://github.com/doomemacs/doomemacs) projects 
 - 📖 - All my projects hosted on GitHub are open source. Feel free to fork or contribute
 
 ### Goals

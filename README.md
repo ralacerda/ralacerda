@@ -5,9 +5,9 @@ My name is Renato, and I am making a career transition from biology to front-end
 ### About me
 
 - 🔭 I enjoy creating static websites and single-page applications with a focus on accessibility and speed
-- 🌱 Currently learning Nuxt, Astro, TypeScript, and MongoDB
-- 📌 Next, I want to learn more about testing and CI/CD
-- 👯 Looking to collaborate on VueJS and Astro projects with code or documentation
+- 🌱 Currently learning about [Testing](https://github.com/ralacerda/vitest-react-learning) and [CI/CD](https://github.com/ralacerda/learning-gh-actions)
+- 📌 Next, I want to learn more about SSR 
+- 👯 Looking to collaborate on VueJS, React and Astro projects with code or documentation
 - 🐧 Enthusiast of GNU/Linux and Free Software
 - 🗣️ I am fluent in Portuguese and English, and currently learning Spanish.
 
@@ -20,7 +20,7 @@ My name is Renato, and I am making a career transition from biology to front-end
 
 ### Open Source
 
-- 📚 - [Contributed](https://github.com/pulls?q=is%3Apr+author%3Aralacerda+archived%3Afalse+is%3Amerged+is%3Apublic+user%3Awithastro+user%3Adoomemacs+) documentation for [Astro](https://astro.build/) and [Doom Emacs](https://github.com/doomemacs/doomemacs) projects 
+- 📚 - [Contributed](https://github.com/search?q=ralacerda+repo%3Awithastro%2Fastro+repo%3Awithastro%2Fdocs+repo%3Aunjs%2Fnitro+repo%3Adoomemacs%2Fdoomemacs+repo%3Aantfu%2Funplugin-icons+state%3Aclosed+reason%3Acompleted&type=Issues&ref=advsearch&l=&l=) documentation for [Astro](https://astro.build/) and [Doom Emacs](https://github.com/doomemacs/doomemacs) projects 
 - 📖 - All my projects hosted on GitHub are open source. Feel free to fork or contribute
 
 ### Goals

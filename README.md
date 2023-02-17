@@ -17,6 +17,7 @@ My name is Renato, and I am making a career transition from biology to front-end
 - 🎬 [Oscar Nominees](https://sequelamovies.web.app/) - An Astro static website that shows information about Oscar 
 - 🖼️ [Portfolio](http://ralacerda-portfolio.netlify.app/) - My Portfolio, written using Astro and Markdown
 - 🏁 [F1 Next](https://f1next.netlify.app/) (Work in Progress) - A website written with Nuxt to display the schedule for Formula 1 races
+- 📚 [Books](https://ralacerda-books.netlify.app/) (Work in Progress) - A website that display the list of books I've read and I recommend. The data comes from Contentful CMS and is build using NextJS
 
 ### Open Source
 

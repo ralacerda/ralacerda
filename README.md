@@ -21,7 +21,7 @@ My name is Renato, and I am making a career transition from biology to front-end
 
 ### Open Source
 
-- 📚 - [Contributed](https://github.com/search?q=ralacerda+repo%3Awithastro%2Fastro+repo%3Awithastro%2Fdocs+repo%3Aunjs%2Fnitro+repo%3Adoomemacs%2Fdoomemacs+repo%3Aantfu%2Funplugin-icons+state%3Aclosed+reason%3Acompleted&type=Issues&ref=advsearch&l=&l=) documentation for [Astro](https://astro.build/) and [Doom Emacs](https://github.com/doomemacs/doomemacs) projects 
+- 🤝 - [Contributed](https://github.com/search?q=ralacerda+repo%3Awithastro%2Fastro+repo%3Awithastro%2Fdocs+repo%3Aunjs%2Fnitro+repo%3Adoomemacs%2Fdoomemacs+repo%3Aantfu%2Funplugin-icons+state%3Aclosed+reason%3Acompleted&type=Issues&ref=advsearch&l=&l=) documentation for [Astro](https://astro.build/) and [Doom Emacs](https://github.com/doomemacs/doomemacs) projects 
 - 📖 - All my projects hosted on GitHub are open source. Feel free to fork or contribute
 
 ### Goals

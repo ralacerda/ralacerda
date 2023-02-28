@@ -16,7 +16,7 @@ My name is Renato, and I am making a career transition from biology to front-end
 - 🎨 [Multiple Colors Contrast Checker](https://multiple-contrast-checker.netlify.app/) - A Vue.js web app to test the color contrast of multiple colors at the same time, making it easier to check if background and foreground colors meet the WCAG standards
 - 🎬 [Oscar Nominees](https://sequelamovies.web.app/) - An Astro static website that shows information about Oscar 
 - 🖼️ [Portfolio](http://ralacerda-portfolio.netlify.app/) - My Portfolio, written using Astro and Markdown
-- 🏁 [F1 Next](https://f1next.netlify.app/) (Work in Progress) - A website written with Nuxt to display the schedule for Formula 1 races
+- 🏁 [F1 Next](https://f1next.netlify.app/) - A website written with Nuxt to display the schedule for Formula 1 races
 - 📚 [Books](https://ralacerda-books.netlify.app/) (Work in Progress) - A website that display the list of books I've read and I recommend. The data comes from Contentful CMS and is build using NextJS
 
 ### Open Source

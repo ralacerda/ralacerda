@@ -11,6 +11,21 @@ My name is Renato, and I am transitioning my career from biology to front-end we
 - 🗣️ I am fluent in Portuguese and English, and I am currently learning Spanish.
 - 🐧 I am an enthusiast of GNU/Linux and Free Software.
 
+## Programming Languages, Tools and Frameworks
+
+- 🧩 JavaScript (ES6+)
+- 🥽 Typescript
+- 🧪 Vue.js
+- ⚛️ React.js
+- ⚡ Vite
+- ⚗️ Nuxt
+- 🚀 Astro
+- 🐙 Git and Github
+- 🌈 HTML5 and CSS3
+- 💄 Sass
+- 🔥 Firebase
+- 🍃 MongoDB
+
 ## Projects
 
 - 🖼️ [Portfolio](http://ralacerda-portfolio.netlify.app/) - Displays my portfolio, written using Astro and Markdown.
@@ -22,8 +37,10 @@ My name is Renato, and I am transitioning my career from biology to front-end we
 
 ## Open Source
 
-- 🤝 Contributed documentation for [Astro](https://astro.build/) and [Doom Emacs](https://github.com/doomemacs/doomemacs) projects.
-- 📖 All my projects hosted on GitHub are open source. Feel free to fork or contribute.
+- 🤝 Contributed documentation for [Astro](https://astro.build/), [Doom Emacs](https://github.com/doomemacs/doomemacs), and other projects
+- 🎃 Participated in [Hacktoberfest](https://hacktoberfest.com/) and contributed to open-source projects
+- 📖 All my projects hosted on GitHub are open source, feel free to fork or contribute
+- 🦬 Using GNU/Linux as my primary operating system for almost 10 years
 
 
 ## Goals

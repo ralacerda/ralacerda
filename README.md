@@ -32,7 +32,7 @@ My name is Renato, and I am transitioning my career from biology to front-end we
 - 🎬 [Oscar Nominees](https://sequelamovies.web.app/) - Shows information about Oscar nominees using an Astro static website
 - 🏁 [F1 Next](https://f1next.netlify.app/) - Displays the schedule for Formula 1 races using Nuxt
 - 🏙️ [Luminares Arq](https://luminares-arq.netlify.app/) - A website for a fictitious architecture company, built using Nuxt, VueJS, Typescript, and SASS
-- 📚 [Books](https://ralacerda-books.netlify.app/) (Work in Progress) - Displays the list of books I've read and recommend. The data comes from Contentful CMS and is built using NextJS
+- 📚 [Bookshelf](https://ralacerda-books.netlify.app/) - Displays the list of books I've read and recommend. The data comes from Contentful CMS and is built using NextJS
 - 🎨 [Multiple Colors Contrast Checker](https://multiple-contrast-checker.netlify.app/) (Work in Progress) - Tests the color contrast of multiple colors at the same time using a Vue.js web app, making it easier to check if background and foreground colors meet the WCAG standards
 
 ## Open Source

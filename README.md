@@ -13,18 +13,10 @@ My name is Renato, and I am transitioning my career from biology to front-end we
 
 ## Programming Languages, Tools and Frameworks
 
-- 🧩 JavaScript (ES6+)
-- 🥽 Typescript
-- 🧪 Vue.js
-- ⚛️ React.js
-- ⚡ Vite
-- ⚗️ Nuxt
-- 🚀 Astro
-- 🐙 Git and Github
-- 🌈 HTML5 and CSS3
-- 💄 Sass
-- 🔥 Firebase
-- 🍃 MongoDB
+- 🧩 **JavaScript**: JavaScript (ES6+), Typescript
+- 🛠️ **FrontEnd Development**: HTML5, CSS3, Sass, Vue.js, Nuxt, Astro, React.js
+- 🐙 **Version Control**: Git, GitHub
+- 🧱 **BackEnd Development**: Firebase, MongoDB, Netlify Serverless Functions
 
 ## Projects
 

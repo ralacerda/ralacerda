@@ -43,7 +43,8 @@ My name is Renato, and I am transitioning my career from biology to front-end we
 
 [![@ralacerda Astro contributions](https://astro.badg.es/v1/contributor/ralacerda.svg)](https://astro.badg.es/v1/contributor/ralacerda/)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ralacerda&layout=compact&theme=dark#gh-dark-mode-only)](https://github-readme-stats.vercel.app/api/top-langs/?username=ralacerda&layout=compact&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ralacerda&layout=compact&theme=default#gh-light-mode-only)](https://github-readme-stats.vercel.app/api/top-langs/?username=ralacerda&layout=compact&theme=default)
+
 [![Renato's GitHub stats](https://github-readme-stats.vercel.app/api?username=ralacerda&hide=stars&show_icons=true&theme=dark#gh-dark-mode-only)](https://github-readme-stats.vercel.app/api?username=ralacerda&hide=stars&show_icons=true&theme=dark)
 [![Renato's GitHub stats](https://github-readme-stats.vercel.app/api?username=ralacerda&hide=stars&show_icons=true&theme=default#gh-light-mode-only)](https://github-readme-stats.vercel.app/api?username=ralacerda&hide=stars&show_icons=true&theme=default#gh-light-mode-only)   
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ralacerda&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=ralacerda&layout=compact)

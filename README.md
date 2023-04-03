@@ -44,5 +44,5 @@ My name is Renato, and I am transitioning my career from biology to front-end we
 
 [![@ralacerda Astro contributions](https://astro.badg.es/v1/contributor/ralacerda.svg)](https://astro.badg.es/v1/contributor/ralacerda/)
 
-[![Renato's GitHub stats](https://github-readme-stats.vercel.app/api?username=ralacerda&hide=stars&show_icons=true&theme=dark#gh-dark-mode-only)]
-[![Renato's GitHub stats](https://github-readme-stats.vercel.app/api?username=ralacerda&hide=stars&show_icons=true&theme=default#gh-light-mode-only)]
+[![Renato's GitHub stats](https://github-readme-stats.vercel.app/api?username=ralacerda&hide=stars&show_icons=true&theme=dark#gh-dark-mode-only)](https://github-readme-stats.vercel.app/api?username=ralacerda&hide=stars&show_icons=true&theme=dark)
+[![Renato's GitHub stats](https://github-readme-stats.vercel.app/api?username=ralacerda&hide=stars&show_icons=true&theme=default#gh-light-mode-only)](https://github-readme-stats.vercel.app/api?username=ralacerda&hide=stars&show_icons=true&theme=default#gh-light-mode-only)

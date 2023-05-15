@@ -5,9 +5,9 @@ My name is Renato, and I am transitioning my career from biology to front-end we
 ## About me
 
 - 🔭 I enjoy creating static websites and single-page applications with a focus on accessibility and speed
-- 🌱 I am currently learning about [Testing](https://github.com/ralacerda/vitest-react-learning) and [CI/CD](https://github.com/ralacerda/learning-gh-actions)
-- 📌 Next, I want to learn more about SSR
-- 👯 I'm looking to collaborate on Vue.js and Astro projects with code or documentation
+- 🌱 I am currently learning Nuxt and ways to improve my code
+- 📌 Next, I want to learn more about SSR and Edge Functions
+- 👯 I'm looking to collaborate on Javascript, Vue.js and Astro projects with code or documentation
 - 🗣️ I am fluent in Portuguese and English, and I am currently learning Spanish
 - 🐧 I am an enthusiast of GNU/Linux and Free Software
 
@@ -26,11 +26,11 @@ My name is Renato, and I am transitioning my career from biology to front-end we
 - 🧬 [AlkaBlog](https://alkablog.netlify.app/) (Work in Progress) - This project showcases how to implement data fetching, layout, routes, async components and virtual lists with Nuxt and Vue 
 - 🏙️ [Luminares Arq](https://luminares-arq.netlify.app/) - A website for a fictitious architecture company, built using Nuxt, VueJS, Typescript, and SASS
 - 📚 [Bookshelf](https://ralacerda-books.netlify.app/) - Displays the list of books I've read and recommend. The data comes from Contentful CMS and is built using NextJS
-
+- 🛜 [Team Connect](https://team-connect.netlify.app/) - A satire website to showcase my skills in designing website for products
 
 ## Open Source
 
-- 🤝 Contributed documentation for [Astro](https://astro.build/), [Doom Emacs](https://github.com/doomemacs/doomemacs), and other projects
+- 🤝 Contributed code and documentation for [Astro](https://astro.build/), [Doom Emacs](https://github.com/doomemacs/doomemacs), and other projects
 - 🎃 Participated in [Hacktoberfest](https://hacktoberfest.com/) and contributed to open-source projects
 - 📖 All my projects hosted on GitHub are open source, feel free to fork or contribute
 - 🦬 Using GNU/Linux as my primary operating system for almost 10 years

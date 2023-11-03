@@ -1,13 +1,10 @@
 # Hi there! 👋
 
-My name is Renato, and I am transitioning my career from biology to front-end web development
+My name is Renato, and I am front-end web development
 
 ## About me
 
 - 🔭 I enjoy creating static websites and single-page applications with a focus on accessibility and speed
-- 🌱 I am currently learning Nuxt and ways to improve my code
-- 📌 Next, I want to learn more about SSR and Edge Functions
-- 👯 I'm looking to collaborate on Javascript, Vue.js and Astro projects with code or documentation
 - 🗣️ I am fluent in Portuguese and English, and I am currently learning Spanish
 - 🐧 I am an enthusiast of GNU/Linux and Free Software
 
@@ -38,7 +35,6 @@ My name is Renato, and I am transitioning my career from biology to front-end we
 
 ## Goals
 
-- 👨‍💻 Start a career as a front-end developer
 - 👨‍🎓 Continuously learn new things and share that knowledge with others
 - 🌐 Develop accessible, fast, and helpful websites
 - 🏗️ Contribute to and help maintain open-source and free software

@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-My name is Renato, and I am front-end web development
+My name is Renato, and I'm a front-end web development
 
 ## About me
 

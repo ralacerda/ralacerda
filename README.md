@@ -40,8 +40,3 @@ My name is Renato, and I'm a web developer
 - 🏗️ Contribute to and help maintain open-source and free software
 
 [![@ralacerda Astro contributions](https://astro.badg.es/v1/contributor/ralacerda.svg)](https://astro.badg.es/v1/contributor/ralacerda/)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ralacerda&layout=compact&theme=dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=ralacerda&layout=compact&theme=dark)
-
-[![Renato's GitHub stats](https://github-readme-stats.vercel.app/api?username=ralacerda&hide=stars&show_icons=true&theme=dark&hide_rank=true#gh-dark-mode-only)](https://github-readme-stats.vercel.app/api?username=ralacerda&hide=stars&show_icons=true&theme=dark&hide_rank=true)
-[![Renato's GitHub stats](https://github-readme-stats.vercel.app/api?username=ralacerda&hide=stars&show_icons=true&theme=default&hide_rank=true#gh-light-mode-only)](https://github-readme-stats.vercel.app/api?username=ralacerda&hide=stars&show_icons=true&theme=default&hide_rank=true#gh-light-mode-only)   

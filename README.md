@@ -22,7 +22,7 @@ My name is Renato, and I'm a web developer
 - 🏁 [F1 Next](https://f1next.netlify.app/) - Displays the schedule for Formula 1 races using Nuxt
 - 🧬 [AlkaBlog](https://alkablog.netlify.app/) (Work in Progress) - This project showcases how to implement data fetching, layout, routes, async components and virtual lists with Nuxt and Vue 
 - 🏙️ [Luminares Arq](https://luminares-arq.netlify.app/) - A website for a fictitious architecture company, built using Nuxt, VueJS, Typescript, and SASS
-- 📚 [Bookshelf](https://ralacerda-books.netlify.app/) - Displays the list of books I've read and recommend. The data comes from Contentful CMS and is built using NextJS
+- 📚 [Bookshelf](https://bookshelf.renatolacerda.com/) - Displays the list of books I've read and recommend. Built using Nuxt with SSR
 - 🛜 [Team Connect](https://team-connect.netlify.app/) - A satire website to showcase my skills in designing website for products
 - 🎨 [Multiple Contrast Checker](https://multiple-contrast-checker.netlify.app/) (Work In Progress) - Web App to test the contrast of multiple colors at the same time
 
